@@ -148,7 +148,7 @@ class Propiedad {
         this.inquilino = null;
     }
 
-    // Getters y Setters
+
     public String getSnr() { return snr; }
     public void setSnr(String snr) { this.snr = snr; }
     public String getDireccion() { return direccion; }
